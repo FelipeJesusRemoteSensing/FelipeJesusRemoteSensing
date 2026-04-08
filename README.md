@@ -18,7 +18,7 @@ Sou **Estudante de Ciências Ambientais** dedicado à análise de dados geoespac
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-img src="https://raw.githubusercontent.com/google/earthengine-api/master/python/examples/ipynb/images/google_earth_engine_logo.png" height="50" alt="Google Earth Engine" title="Google Earth Engine" />
+<img src="https://raw.githubusercontent.com/google/earthengine-api/master/python/examples/ipynb/images/google_earth_engine_logo.png" height="50" alt="Google Earth Engine" title="Google Earth Engine" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
 </div>
