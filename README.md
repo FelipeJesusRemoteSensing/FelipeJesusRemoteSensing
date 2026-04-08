@@ -1,9 +1,4 @@
 # Olá, eu sou o Felipe Sousa de Jesus! 👋
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
 ---
 
 ### 🌿 Sobre Mim
