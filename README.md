@@ -23,7 +23,7 @@ Sou **Estudante de Ciências Ambientais** dedicado à análise de dados geoespac
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Google_Earth_Engine_logo.svg" height="50" alt="GEE" title="Google Earth Engine" />
+img src="https://raw.githubusercontent.com/google/earthengine-api/master/python/examples/ipynb/images/google_earth_engine_logo.png" height="50" alt="Google Earth Engine" title="Google Earth Engine" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
 </div>
@@ -37,7 +37,7 @@ Sou **Estudante de Ciências Ambientais** dedicado à análise de dados geoespac
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="(https://www.linkedin.com/in/felipe-sousa-de-jesus-76a75b253/)">
+  <a href="https://www.linkedin.com/in/felipe-sousa-de-jesus-76a75b253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
