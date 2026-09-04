@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Sousa de Jesus! 👋
+# Me chamo Felipe Sousa de Jesus! 👋
 ---
 
 ### 🌿 Sobre Mim
